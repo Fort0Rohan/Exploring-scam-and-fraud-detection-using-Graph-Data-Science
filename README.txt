@@ -1,1 +1,1 @@
-All the analysis usin cypher query can be found in the "BDT-asgnmnt_2-Rohan_Junaid_Khan". Also, a youtube link describing the process and result is given.
+All the analysis using cypher query can be found in the "BDT-asgnmnt_2-Rohan_Junaid_Khan". Also, a youtube link describing the process and result is given.
